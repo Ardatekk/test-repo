@@ -30,3 +30,6 @@
 - `git add .`
 - `git commit -m "message"`
 - `git push`
+
+## 📌 Terminal Notes
+My personal cheat sheet → [terminal-cheatsheet.md](terminal-cheatsheet.md)
