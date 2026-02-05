@@ -1,0 +1,6 @@
+# test-repo
+My practice repo for Git.
+
+## 📌 Terminal Cheat Sheet
+
+👉 [terminal-cheatsheet.md](terminal-cheatsheet.md)
