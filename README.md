@@ -1,5 +1,6 @@
 # test-repo
 My practice repo for Git.Maheen
+My practice repo for Git.Arda
 
 ## 📌 Terminal Cheat Sheet
 
