@@ -1,5 +1,5 @@
 # test-repo
-My practice repo for Git.
+My practice repo for Git.Maheen
 
 ## 📌 Terminal Cheat Sheet
 
