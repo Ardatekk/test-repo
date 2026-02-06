@@ -1,7 +1,12 @@
-# test-repo
-My practice repo for Git.Arda
+# CREATING NEW AI ASISTANT HERE :)
 
 ## 📌 Terminal Cheat Sheet
-
 👉 [terminal-cheatsheet.md](terminal-cheatsheet.md)
-Hello this part is from Maheen-updates
+
+
+
+# STORY
+
+A Friday that didn’t knock, yet left its mark…  
+Contributions here are made with coffee, chaos, and a pinch of mystery.
+
